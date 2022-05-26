@@ -1,3 +1,10 @@
-# Getting Started With Express
+# Cash Finance NPM
 
-Take an important step towards working with APIs, data, and web applications for making money projects by learning how to make a simple server using Express.
+Options tools for developers. Easily calculate and evaluate scenarios for your option contracts.
+
+For instance, use Cash Finance to calculate:
+
+- option income by dollar and percentage 
+- value of underlying stock if option is in the money
+- value of underlying stock if option is out of the money
+- total option seller gains in dolalr and percentage
